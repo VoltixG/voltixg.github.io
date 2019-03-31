@@ -1,0 +1,21 @@
+nav {
+	margin-bottom: 50px;
+}
+/* div[class="col s12"] {
+	background-color: #e0e0e0;
+	text-align: center;
+} */
+.random {
+	border: 4px black solid;
+	height: 200px;
+	width: 200px;
+}
+.random:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+body {
+	overflow: scroll;
+}
+.pcpp-part-list:link {
+	background-color: black;
+}
